@@ -91,3 +91,25 @@ ul{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.formesp{
+    border: none;
+    background-color: #f6f6f6;
+    padding: 20px 47px;
+    width: 49.8%;
+    margin-bottom: 5px;
+    font-family: math;
+}
+
+.formcom{
+    border: none;
+    resize: none;
+    width: 100%;
+    background-color: #f6f6f6;
+    padding: 20px 47px;
+    font-family: math;
+}
+
+.logoaudi{
+    margin: 10px;
+}
