@@ -1,0 +1,93 @@
+.main{
+    background-image: url(https://www.wallpapertip.com/wmimgs/33-336737_0-audi-wallpaper-audi-wallpaper-data-src-audi.jpg);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.titulo{
+    background-color: white;
+    color: black;
+    padding-left: 60px;
+    font-size: large;
+    border-bottom: 2px solid dodgerblue;
+    margin-bottom: auto;
+}
+
+.encabezados{
+    text-decoration: underline;
+    text-decoration-color: cadetblue;
+    text-decoration-thickness: from-font;
+    margin-top: revert;
+    font-weight: 100;
+}
+
+.parrafo{
+    margin-right: 560px;
+}
+
+.footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-top: 3px solid dodgerblue;
+}
+
+.afooter{
+    color: dodgerblue;
+    text-decoration: wavy;
+    margin: -7px;
+    margin-right: auto;
+}
+
+.limain{
+    list-style-type: none;
+    display: inline-flex;
+    background: #191A1A;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.limain:hover{
+    background: black;
+    color: white;
+}
+
+ul{
+    margin-bottom: auto;
+}
+
+.lidiv{
+    background: #191A1A;
+}
+
+.espacio{
+    margin: 450px;
+}
+
+.divimagen{
+    width: 100%;
+}
+
+.fondopag{
+    color: white;
+    background-color: #252222;
+    background-size: cover;
+    padding: 1px;
+    padding-bottom: 25px;
+}
+
+.video{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.fondovid{
+    background-color: #252222;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
